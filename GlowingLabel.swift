@@ -18,7 +18,7 @@ class GlowingLabel: UILabel {
     }
     
     @IBInspectable
-    var glowSize :CGFloat = 15.0
+    var glowSize :CGFloat = 25.0
     
     
     override func drawTextInRect(rect: CGRect) {

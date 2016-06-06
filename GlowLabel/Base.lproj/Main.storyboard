@@ -18,10 +18,15 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="九阴 真经" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="L64-o6-HUl" customClass="GlowingLabel" customModule="GlowLabel" customModuleProvider="target">
-                                <rect key="frame" x="220.5" y="204.5" width="160" height="191"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="80"/>
+                                <rect key="frame" x="180.5" y="157" width="240" height="286.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="120"/>
                                 <color key="textColor" red="0.0" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="glowSize">
+                                        <real key="value" value="40"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
                             </label>
                         </subviews>
                         <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
