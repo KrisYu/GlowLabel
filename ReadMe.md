@@ -7,7 +7,6 @@ Building Glowing Label by subclass UILabel and less than twenty lines of Code.
 
 Effect:
 
-![](outcome.png =350x)
 
 Usage: 
 
