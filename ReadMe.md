@@ -24,7 +24,6 @@ Usage:
 [id0]:https://github.com/KrisYu/GlowLabel/blob/master/GlowingLabel.swift
 
 
-![](https://github.com/KrisYu/GlowLabel/blob/master/imgs/settings.png?raw=true)
 
 
 
